@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 
-
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/wk642/wk642?style=social)  
-![GitHub Streak](https://streak-stats.demolab.com?user=wk642&theme=dark&border_radius=9.7&card_width=100&theme=merko)  
-![Winnie Kelley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk642&border_radius=9.7&card_width=100&theme=merko)  
+![GitHub Streak](https://streak-stats.demolab.com?user=wk642&theme=dark&border_radius=9.7&card_width=100&theme=merko) 
+![Winnie Kelley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk642&border_radius=9.7&card_width=100&theme=merko) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wk642&layout=compact&border_radius=9.7&theme=merko)

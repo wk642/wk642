@@ -35,5 +35,3 @@
     </td>
   </tr>
 </table>
-
- ![video](https://github.com/user-attachments/assets/89f3930c-1344-4b7c-8d52-246f28db5e2e)

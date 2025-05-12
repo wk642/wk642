@@ -28,23 +28,12 @@
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </div>
       <div>
-        Your future game developer
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
+        <img src="https://github.com/user-attachments/assets/59826b4e-f104-4da3-b2ef-15dd1678ad6a"/>
         <br/>
         <br/>
       </div>
     </td>
   </tr>
 </table>
+
+ ![video](https://github.com/user-attachments/assets/89f3930c-1344-4b7c-8d52-246f28db5e2e)

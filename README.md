@@ -13,7 +13,7 @@ For the github streaks deployed on vercel by myself following these two links:
     </td>
     <td align="left" width=65>
       <div>
-        <img src="https://github.com/user-attachments/assets/3cbc4cc6-12f9-43d9-b5cd-376ca7d4232c" alt="Intro">
+        <img src="https://github.com/user-attachments/assets/7bd7b073-5f85-49eb-9726-3fb0d2d6b69d" alt="Intro">
         <br/>
         <br/>
         <a href="https://www.linkedin.com/in/w642kelley/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>

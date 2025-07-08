@@ -9,7 +9,7 @@ For the github streaks deployed on vercel by myself following these two links:
       <p>
         <img src="https://github-readme-stats.vercel.app/api?username=wk642&border_radius=9.7&card_width=350&theme=merko" alt="Github Stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wk642&layout=compact&border_radius=9.7&theme=merko" alt="Top Languages">
-        <img src="https://github-readme-streak-stats-flame-iota.vercel.app?user=wk642&border_radius=9.2&theme=merko&width=100" alt="GitHub Streak">
+<!--         <img src="https://github-readme-streak-stats-flame-iota.vercel.app?user=wk642&border_radius=9.2&theme=merko&width=100" alt="GitHub Streak"> -->
     </td>
     <td align="left" width=65>
       <div>
